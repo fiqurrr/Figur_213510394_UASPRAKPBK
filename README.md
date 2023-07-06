@@ -1,4 +1,4 @@
 # UAS LAB PBK
-Nama : Figur
+Nama : Fiqur
 Npm  : 213510394
  
